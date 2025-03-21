@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wPI4R4eph65MZpZAd/hbbhNpvuuZqKEajnoObWe39fo=",
+  "Source": "AzureDevOpsWorkItemsApi",
+  "BasePath": "_content/AzureDevOpsWorkItemsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

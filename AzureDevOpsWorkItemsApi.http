@@ -1,0 +1,6 @@
+@AzureDevOpsWorkItemsApi_HostAddress = http://localhost:5293
+
+GET {{AzureDevOpsWorkItemsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
